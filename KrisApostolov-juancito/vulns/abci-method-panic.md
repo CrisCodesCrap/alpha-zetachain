@@ -27,3 +27,5 @@ func someConditionValidator(ctx sdk.Context, k keeper.Keeper) {
 - [Agoric `panic`s purposefully if the `PushAction` method returns an error](https://github.com/Agoric/agoric-sdk/blob/9116ede69169ebb252faf069d90022e8e05c6a4e/golang/cosmos/x/vbank/module.go#L166)
 - [Setting invalid parameters in `x/distribution` module causes `panic` in `BeginBlocker`](https://github.com/cosmos/cosmos-sdk/issues/5808). Valid parameters are [described in the documentation](https://docs.cosmos.network/v0.45/modules/distribution/07_params.html)
 - [ZetaNode Halborn Security Assessment: (HAL-03) POSSIBLE DIVISION BY ZERO COULD CAUSE CHAIN HALT DUE TO PANIC](https://drive.google.com/file/d/1323iwH34kOqGzBZIz4iX-Qfo8ACzomNc/view)
+- [ZetaChain Zellic Audit Report: 3.10 No panic handler in Zetaclient may halt cross-chain com-
+munication](https://drive.google.com/drive/folders/10PFcoASYKhllalv5n1AW4mYD12urPgWJ)

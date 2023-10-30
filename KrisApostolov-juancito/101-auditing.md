@@ -68,3 +68,4 @@ You can do it by modifying the [smoketest/main.go](https://github.com/zeta-chain
 - [ZetaChain Previous Audits](https://drive.google.com/drive/folders/10PFcoASYKhllalv5n1AW4mYD12urPgWJ)
 - [Static Application Security Testing of Consensus-Critical Code in the Cosmos Network](https://www.researchgate.net/publication/373262833_Static_Application_Security_Testing_of_Consensus-Critical_Code_in_the_Cosmos_Network)
 - [Crosschain Risk Framework](https://crosschainriskframework.github.io/)
+- [Awesome Cosmos](https://github.com/cosmos/awesome-cosmos#tools)

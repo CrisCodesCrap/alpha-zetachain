@@ -31,5 +31,5 @@ func (k msgServer) Transfer(goCtx context.Context, msg *types.MsgTransfer) (*typ
 }
 ```
 
-- [ZetaChain Zellic Audit Report: 3.8 Missing nil check when parsing client event](https://drive.google.com/drive/folders/10PFcoASYKhllalv5n1AW4mYD12urPgWJ)
+- [ZetaChain Zellic Audit Report: 3.8 Missing nil check when parsing client event](https://drive.google.com/file/d/1TjLkNn9MobjGTupukJBxnpxr0DKvj_6V/view)
 - [DON’T “PANIC”: HOW IMPROPER ERROR-HANDLING CAN LEAD TO BLOCKCHAIN HACKS](https://www.halborn.com/blog/post/dont-panic-how-improper-error-handling-can-lead-to-blockchain-hacks)
